@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.unreal-engine-learning-kit:-games-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/UE4/UELearningKit_Games/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Unreal Engine Learning Kit: Games-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}
